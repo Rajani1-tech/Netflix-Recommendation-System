@@ -3,6 +3,7 @@
    In any recommendation system, users and some items are taken into account; in this case, the items are Netflix movies. Tell us what a recommendation system            accomplishes before we continue. In essence, it matches the material based on similarities between a specific group of users and a group of products. Let's examine    this idea in greater detail:
    
    
+   
 
 ![image](https://user-images.githubusercontent.com/83020452/203455510-d1241fb0-b8cd-458b-8153-1af5976fad90.png)
 
